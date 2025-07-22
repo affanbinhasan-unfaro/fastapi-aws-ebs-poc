@@ -1,0 +1,8 @@
+myvenv
+.vscode
+*.db
+*.pyc
+*.png
+__pycache__
+.DS_Store
+.env
